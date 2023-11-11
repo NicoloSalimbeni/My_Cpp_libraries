@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.27.0) # my current version
 
-project(YourProjectName)
+project(myLibs)
 
 # Set the source and include directories
 set(SRC_DIR ${CMAKE_SOURCE_DIR}/src)
